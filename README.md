@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+ I'm a Frontend developer with a keen interest in building products from the ground up. 
+ 
+ I'm currently learning about tools for monitoring site performance and accessibility!
+ 
+ How to reach me: Drop a message of LinkedIn or X and I'll get ASAP!
 <!--
 **LindieK/LindieK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
